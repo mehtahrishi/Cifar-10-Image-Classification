@@ -1,0 +1,20 @@
+CNN Model - Test Accuracy: 74.70%
+CNN Model - Test Loss: 0.7537
+
+Classification Report for CNN Model:
+              precision    recall  f1-score   support
+
+    Airplane       0.80      0.78      0.79      1000
+  Automobile       0.88      0.87      0.87      1000
+        Bird       0.78      0.51      0.61      1000
+         Cat       0.74      0.41      0.53      1000
+        Deer       0.67      0.74      0.71      1000
+         Dog       0.74      0.62      0.68      1000
+        Frog       0.63      0.92      0.75      1000
+       Horse       0.70      0.85      0.77      1000
+        Ship       0.84      0.86      0.85      1000
+       Truck       0.76      0.90      0.82      1000
+
+    accuracy                           0.75     10000
+   macro avg       0.75      0.75      0.74     10000
+weighted avg       0.75      0.75      0.74     10000
